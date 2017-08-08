@@ -34,7 +34,7 @@
 
 				context.arc(0,0,r-10*rem,0,2*Math.PI);
 
-				context.drawImage(img,-r,-r,600,600);
+				context.drawImage(img,-r,-r,300,300);
 				// context.stroke();
 			
 
